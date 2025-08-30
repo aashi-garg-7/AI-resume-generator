@@ -27,4 +27,4 @@
 
 5. Open browser:
    - Backend: http://127.0.0.1:8000/docs
-   - Frontend: http:/browser/localhost:8501
+   - Frontend: http://localhost:8501
